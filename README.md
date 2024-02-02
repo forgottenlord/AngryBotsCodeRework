@@ -1,7 +1,5 @@
 # Angry Bots 2
 
-![AB2_1.png](https://i.imgur.com/Hr8P5MV.jpg)
-
 **Description**
 
 Angry Bots 2 is an example Unity Project, developed by Unity Technologies, used to demonstrate several features:
@@ -17,9 +15,6 @@ Angry Bots 2 is an example Unity Project, developed by Unity Technologies, used 
 This is a 'live' project; meaning that assets, feature-usage, code, etc will likely be updated, changed and added in the future!
 
 Feel free to use anything from this project for whatever you are working on; assets, code, shader graphs, etc!
-
-![AB2_2.png](https://i.imgur.com/kIJpf5S.jpg)
-
 
 **Current Software Requirements**
 
